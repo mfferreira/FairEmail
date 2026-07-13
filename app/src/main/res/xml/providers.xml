@@ -2292,6 +2292,7 @@
     </provider>
     <provider
         name="Forward Email"
+        mx=".*forwardemail\\.net"
         documentation="Sending email requires &lt;a href='https://forwardemail.net/private-business-email?pricing=true'&gt;a subscription&lt;/a&gt;."
         link="https://forwardemail.net/faq#what-are-your-imap-server-configuration-settings">
         <imap
